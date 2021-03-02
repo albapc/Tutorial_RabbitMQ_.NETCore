@@ -1,0 +1,11 @@
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial3\ReceiveLogs\bin\Debug\netcoreapp2.1\ReceiveLogs.deps.json
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial3\ReceiveLogs\bin\Debug\netcoreapp2.1\ReceiveLogs.runtimeconfig.json
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial3\ReceiveLogs\bin\Debug\netcoreapp2.1\ReceiveLogs.runtimeconfig.dev.json
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial3\ReceiveLogs\bin\Debug\netcoreapp2.1\ReceiveLogs.dll
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial3\ReceiveLogs\bin\Debug\netcoreapp2.1\ReceiveLogs.pdb
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial3\ReceiveLogs\obj\Debug\netcoreapp2.1\ReceiveLogs.csprojAssemblyReference.cache
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial3\ReceiveLogs\obj\Debug\netcoreapp2.1\ReceiveLogs.csproj.CoreCompileInputs.cache
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial3\ReceiveLogs\obj\Debug\netcoreapp2.1\ReceiveLogs.AssemblyInfoInputs.cache
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial3\ReceiveLogs\obj\Debug\netcoreapp2.1\ReceiveLogs.AssemblyInfo.cs
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial3\ReceiveLogs\obj\Debug\netcoreapp2.1\ReceiveLogs.dll
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial3\ReceiveLogs\obj\Debug\netcoreapp2.1\ReceiveLogs.pdb

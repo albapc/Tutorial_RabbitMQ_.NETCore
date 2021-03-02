@@ -1,0 +1,11 @@
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial6\RPCServer\bin\Debug\netcoreapp2.1\RPCServer.deps.json
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial6\RPCServer\bin\Debug\netcoreapp2.1\RPCServer.runtimeconfig.json
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial6\RPCServer\bin\Debug\netcoreapp2.1\RPCServer.runtimeconfig.dev.json
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial6\RPCServer\bin\Debug\netcoreapp2.1\RPCServer.dll
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial6\RPCServer\bin\Debug\netcoreapp2.1\RPCServer.pdb
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial6\RPCServer\obj\Debug\netcoreapp2.1\RPCServer.csprojAssemblyReference.cache
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial6\RPCServer\obj\Debug\netcoreapp2.1\RPCServer.csproj.CoreCompileInputs.cache
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial6\RPCServer\obj\Debug\netcoreapp2.1\RPCServer.AssemblyInfoInputs.cache
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial6\RPCServer\obj\Debug\netcoreapp2.1\RPCServer.AssemblyInfo.cs
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial6\RPCServer\obj\Debug\netcoreapp2.1\RPCServer.dll
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial6\RPCServer\obj\Debug\netcoreapp2.1\RPCServer.pdb

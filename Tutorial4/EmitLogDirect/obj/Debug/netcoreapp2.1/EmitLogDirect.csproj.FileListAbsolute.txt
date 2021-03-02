@@ -1,0 +1,11 @@
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial4\EmitLogDirect\bin\Debug\netcoreapp2.1\EmitLogDirect.deps.json
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial4\EmitLogDirect\bin\Debug\netcoreapp2.1\EmitLogDirect.runtimeconfig.json
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial4\EmitLogDirect\bin\Debug\netcoreapp2.1\EmitLogDirect.runtimeconfig.dev.json
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial4\EmitLogDirect\bin\Debug\netcoreapp2.1\EmitLogDirect.dll
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial4\EmitLogDirect\bin\Debug\netcoreapp2.1\EmitLogDirect.pdb
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial4\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.csprojAssemblyReference.cache
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial4\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.csproj.CoreCompileInputs.cache
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial4\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.AssemblyInfoInputs.cache
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial4\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.AssemblyInfo.cs
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial4\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.dll
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial4\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.pdb

@@ -1,0 +1,11 @@
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial5\EmitLogTopic\bin\Debug\netcoreapp2.1\EmitLogTopic.deps.json
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial5\EmitLogTopic\bin\Debug\netcoreapp2.1\EmitLogTopic.runtimeconfig.json
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial5\EmitLogTopic\bin\Debug\netcoreapp2.1\EmitLogTopic.runtimeconfig.dev.json
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial5\EmitLogTopic\bin\Debug\netcoreapp2.1\EmitLogTopic.dll
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial5\EmitLogTopic\bin\Debug\netcoreapp2.1\EmitLogTopic.pdb
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial5\EmitLogTopic\obj\Debug\netcoreapp2.1\EmitLogTopic.csprojAssemblyReference.cache
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial5\EmitLogTopic\obj\Debug\netcoreapp2.1\EmitLogTopic.csproj.CoreCompileInputs.cache
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial5\EmitLogTopic\obj\Debug\netcoreapp2.1\EmitLogTopic.AssemblyInfoInputs.cache
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial5\EmitLogTopic\obj\Debug\netcoreapp2.1\EmitLogTopic.AssemblyInfo.cs
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial5\EmitLogTopic\obj\Debug\netcoreapp2.1\EmitLogTopic.dll
+C:\Users\alba.perezcesar\source\repos\RabbitMQ_.NET\Tutorial5\EmitLogTopic\obj\Debug\netcoreapp2.1\EmitLogTopic.pdb
